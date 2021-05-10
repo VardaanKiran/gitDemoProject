@@ -1,1 +1,1 @@
-This is A. and we are in the local branch.
+This is A. and we are in the master branch.
